@@ -1,4 +1,4 @@
-# " This project is tested with BrowserStack.”
+# " This project is tested with [BrowserStack.](https://www.google.com)”
 
 ![Etar Calendar](metadata/en-US/images/featureGraphic.png)
 # Etar Calendar
