@@ -1,4 +1,4 @@
-# " This project is tested with [BrowserStack.]([https://www.google.com](https://email.browserstack.com/c/eJwky0tuxCAMANDTTHZEEGxgFpylMtg0aT5MIFGuX6ndPulxxITsB4nGBY3Wa7DDHLPX6MXD-22ceIOOtNXJvgPnBMGZYYkOJirIkyXi8DVZnojJacsBDcCk0eLYF5Z1OVVpct5yXKrdqrD6VL67UL-M2mk5rErbLar4EiAVBMW5neEFWnZatrE06TNLX8dc92GLz_OMqdWnS-sX5X9u8ad2-cxjpmOlQ9oL9Pdfz3X_DQAA__8WSEkE))”
+# " This project is tested with [BrowserStack.](https://email.browserstack.com/c/eJwky0tuxCAMANDTTHZEEGxgFpylMtg0aT5MIFGuX6ndPulxxITsB4nGBY3Wa7DDHLPX6MXD-22ceIOOtNXJvgPnBMGZYYkOJirIkyXi8DVZnojJacsBDcCk0eLYF5Z1OVVpct5yXKrdqrD6VL67UL-M2mk5rErbLar4EiAVBMW5neEFWnZatrE06TNLX8dc92GLz_OMqdWnS-sX5X9u8ad2-cxjpmOlQ9oL9Pdfz3X_DQAA__8WSEkE)”
 
 ![Etar Calendar](metadata/en-US/images/featureGraphic.png)
 # Etar Calendar
